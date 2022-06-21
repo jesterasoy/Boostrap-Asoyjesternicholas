@@ -1,0 +1,147 @@
+body{
+  background-image:url(men.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+	font-family: baskerville;
+	font-size: 50px;
+	text-align: center;
+	-webkit-text-decoration-line: underline; 
+  text-decoration-line: underline; 
+  margin-left: 110px;
+
+}
+div.gallery {
+  margin-left: 120px;
+  border: 1px solid black;
+  float: left;
+  width: 180px;
+  align-content: center;
+
+}
+
+
+div.gallery:hover {
+  border: 1px solid #777;
+  transform:translateY(10px);
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+  height: 40px;
+
+}
+
+div.galley {
+  margin-left: 120px;
+  border: 1px solid black;
+  float: left;
+  width: 180px;
+  align-content: center;
+
+}
+div.allery {
+  margin-left: 120px;
+  border: 1px solid black;
+  float: left;
+  width: 180px;
+  align-content: center;
+
+}
+div.galler {
+  margin-left: 120px;
+  border: 1px solid black;
+  float: left;
+  width: 180px;
+  align-content: center;
+
+}
+div.galler:hover {
+  border: 1px solid #777;
+  transform:translateY(10px);
+}
+
+div.galler img {
+  width: 100%;
+  height: auto;
+}
+div.allery {
+  margin-left: 120px;
+  border: 1px solid black;
+  float: left;
+  width: 180px;
+  align-content: center;
+
+}
+div.allery:hover {
+  border: 1px solid #777;
+  transform:translateY(10px);
+}
+
+div.allery img {
+  width: 100%;
+  height: auto;
+}
+div.galley {
+  margin-left: 120px;
+  border: 1px solid black;
+  float: left;
+  width: 180px;
+  align-content: center;
+
+}
+div.galley:hover {
+  border: 1px solid #777;
+  transform:translateY(10px);
+}
+
+div.galley img {
+  width: 100%;
+  height: auto;
+}
+div.galle{
+  margin-top: 30px;
+}
+
+div.galle {
+  margin-left: 120px;
+  border: 1px solid black;
+  float: left;
+  width: 180px;
+  align-content: center;
+
+}
+
+
+div.galle:hover {
+  border: 1px solid #777;
+  transform:translateY(-10px);
+}
+
+div.galle img {
+  width: 100%;
+  height: auto;
+}
+div.back a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+  float: right;
+}
+
+div.back a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.previous {
+  background-color: #f1f1f1;
+  color: black;
+}
